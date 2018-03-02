@@ -9,6 +9,9 @@ Este sistema esta desarrollado en C# y su funcion principal es que el estudiante
 Beneficios
 Al usar el sistema generaras un habito que permitara a tu mente mantenerte activo ante lo que estas haciendo, en los tiempos de descanso podras analizar lo que estas estudiando y ver con mas claridad lo que lees.
 
+Como Usarlo
+Descarga el programa y entra a "Cronometro\bin\Debug\Cronometro.exe" y ejecutalo, si el programa ya tiene datos solo tienes que cerrar el programa y entrar a "Cronometro\bin\Debug\" y eliminar el archivo "DBTiempo.xml" y volver a ejecutar el programa el sistema te creara un nuevo archivo.
+
 Usenlo y Compartanlo
 Ayudense y ayuden
 Gracias
