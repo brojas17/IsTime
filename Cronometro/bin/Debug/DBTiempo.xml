@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tiempos>
+  <Tiempo codigo="1">
+    <tiempoSeg>0</tiempoSeg>
+    <fecha>29-11-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="2">
+    <tiempoSeg>10</tiempoSeg>
+    <fecha>30-11-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="3">
+    <tiempoSeg>9913</tiempoSeg>
+    <fecha>01-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="4">
+    <tiempoSeg>11350</tiempoSeg>
+    <fecha>02-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="5">
+    <tiempoSeg>5005</tiempoSeg>
+    <fecha>04-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="6">
+    <tiempoSeg>3488</tiempoSeg>
+    <fecha>05-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="7">
+    <tiempoSeg>9832</tiempoSeg>
+    <fecha>06-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="8">
+    <tiempoSeg>15679</tiempoSeg>
+    <fecha>07-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="9">
+    <tiempoSeg>3355</tiempoSeg>
+    <fecha>11-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="10">
+    <tiempoSeg>5400</tiempoSeg>
+    <fecha>12-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="11">
+    <tiempoSeg>10800</tiempoSeg>
+    <fecha>13-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="12">
+    <tiempoSeg>3535</tiempoSeg>
+    <fecha>14-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="13">
+    <tiempoSeg>0</tiempoSeg>
+    <fecha>15-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="14">
+    <tiempoSeg>9782</tiempoSeg>
+    <fecha>16-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="15">
+    <tiempoSeg>143</tiempoSeg>
+    <fecha>18-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="16">
+    <tiempoSeg>5400</tiempoSeg>
+    <fecha>20-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="17">
+    <tiempoSeg>10800</tiempoSeg>
+    <fecha>21-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="18">
+    <tiempoSeg>2700</tiempoSeg>
+    <fecha>22-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="19">
+    <tiempoSeg>10800</tiempoSeg>
+    <fecha>26-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="20">
+    <tiempoSeg>11545</tiempoSeg>
+    <fecha>27-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="21">
+    <tiempoSeg>8985</tiempoSeg>
+    <fecha>28-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="22">
+    <tiempoSeg>10134</tiempoSeg>
+    <fecha>29-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="23">
+    <tiempoSeg>0</tiempoSeg>
+    <fecha>30-12-2017</fecha>
+  </Tiempo>
+  <Tiempo codigo="24">
+    <tiempoSeg>10042</tiempoSeg>
+    <fecha>02-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="25">
+    <tiempoSeg>0</tiempoSeg>
+    <fecha>03-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="26">
+    <tiempoSeg>5312</tiempoSeg>
+    <fecha>05-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="27">
+    <tiempoSeg>5404</tiempoSeg>
+    <fecha>06-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="28">
+    <tiempoSeg>9409</tiempoSeg>
+    <fecha>08-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="29">
+    <tiempoSeg>21448</tiempoSeg>
+    <fecha>09-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="30">
+    <tiempoSeg>5400</tiempoSeg>
+    <fecha>10-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="31">
+    <tiempoSeg>4240</tiempoSeg>
+    <fecha>15-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="32">
+    <tiempoSeg>5400</tiempoSeg>
+    <fecha>20-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="33">
+    <tiempoSeg>2812</tiempoSeg>
+    <fecha>21-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="34">
+    <tiempoSeg>3014</tiempoSeg>
+    <fecha>22-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="35">
+    <tiempoSeg>8104</tiempoSeg>
+    <fecha>23-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="36">
+    <tiempoSeg>2613</tiempoSeg>
+    <fecha>24-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="37">
+    <tiempoSeg>18900</tiempoSeg>
+    <fecha>30-01-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="38">
+    <tiempoSeg>16200</tiempoSeg>
+    <fecha>15-02-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="39">
+    <tiempoSeg>11708</tiempoSeg>
+    <fecha>16-02-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="40">
+    <tiempoSeg>4488</tiempoSeg>
+    <fecha>17-02-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="41">
+    <tiempoSeg>0</tiempoSeg>
+    <fecha>18-02-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="42">
+    <tiempoSeg>15465</tiempoSeg>
+    <fecha>19-02-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="43">
+    <tiempoSeg>16894</tiempoSeg>
+    <fecha>22-02-2018</fecha>
+  </Tiempo>
+  <Tiempo codigo="44">
+    <tiempoSeg>3000</tiempoSeg>
+    <fecha>02-03-2018</fecha>
+  </Tiempo>
+</Tiempos>
